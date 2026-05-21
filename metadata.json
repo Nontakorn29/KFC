@@ -1,0 +1,6 @@
+{
+  "name": "KFC - Finger Lickin' Good",
+  "description": "A modern, high-converting KFC online ordering website featuring interactive menu filtering, live cart subtotal calculations, real-time promo countdowns, loyalty rewards tracker, and restaurant branch locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
